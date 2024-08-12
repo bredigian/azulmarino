@@ -20,10 +20,6 @@ export const SOCIAL = [
     url: "https://www.linkedin.com/in/azul-marino-ba4780222",
   },
   {
-    icon: BiLogoTiktok,
-    url: "https://www.tiktok.com/@azulmarinogt.agency",
-  },
-  {
     icon: BiLogoGmail,
     url: "mailto:aloha@azulmarinogt.com",
   },
